@@ -15,8 +15,8 @@ API REST desarrollada con Spring Boot para la gestión táctica de los Pilares d
 ## 🚀 Cómo ejecutar el proyecto
 1. Clonar el repositorio.
 2. Importar como **Existing Maven Project** en Eclipse.
-3. Crear una base de datos en MySQL llamada `castillo_db`.
-4. Configurar usuario y contraseña en `src/main/resources/application.properties`.
+3. Crear o cargar la base de datos que esta en resourse en MySQL llamada `castillo_db`.
+4. Configurar usuario en `src/main/resources/application.properties`.
 5. Ejecutar `CastilloApplication.java`.
 
 ## 📡 Endpoints Probados
